@@ -32,6 +32,7 @@ TEMPLATE = """
         h1 {
             margin-bottom: 0.5rem;
             font-size: clamp(2rem, 4vw, 3rem);
+            color: #0f172a;
         }
         p {
             margin: 0.4rem 0;
